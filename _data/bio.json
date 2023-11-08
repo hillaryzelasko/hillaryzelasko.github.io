@@ -15,19 +15,16 @@
   },
   "interests": [
     { "name": "Software Engineering" },
-    { "name": "Data Analysis" },
-    { "name": "" },
-    { "name": "" },
-    { "name": "" }
+    { "name": "Data Analysis" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C#", "SQL", "CSS/HTMl", "Javascript", "", "" ]
+      "keywords": [ "C#", "SQL", "CSS/HTMl", "Javascript"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Microsoft Office", "", "Git/GitHub", "", "" ]
+      "keywords": [ "Microsoft Office", "Git/GitHub"]
     }
   ],
   "education": [
