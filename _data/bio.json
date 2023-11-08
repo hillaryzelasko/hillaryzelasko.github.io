@@ -56,17 +56,57 @@
       ]
     },
     {
-      "company": "",
-      "position": "",
+      "company": "NETWORK TECHNOLOGY SERVICES LLC",
+      "position": "PROJECT COORDINATOR",
+      "website": "",
+      "startDate": "October 2019",
+      "endDate": "March 2022",
+      "summary": "",
+      "highlights": [
+        "Responsible for resourcing, staffing and scheduling jobs and projects for clients.",
+        "Introduced and maintained a Work in Progress report to keep projects running smoothly via Microsoft Excel data analysis.",
+        "Project Management."
+      ]
+    },
+    {
+      "company": "STITCH DESIGNERS",
+      "position": "CUSTOMER SERVICE REPRESENTATIVE",
       "website": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "",
-        ""
+        "Maintained accounts totaling $600,000 per year by creating professional relationships and guaranteeing we meet their needs.",
+        "Verified every order which reduced clerical and pricing errors by 90%.",
+        "Maintained the Work in Progress report via Microsoft Excel Data Analysis."
       ]
     }
+      {
+      "company": "BANK OF AMERICA MS",
+      "position": "IMPLEMENTATION COORDINATOR",
+      "website": "",
+      "startDate": "March 2011",
+      "endDate": "December 2011",
+      "summary": "",
+      "highlights": [
+        "Promoted to work with the Mass Update Project Team to update mass amounts of data, quickly and accurately via automated programming.",
+        "Advanced my knowledge of Microsoft Excel and Access SQL to create queries to analyze and/or add data to existing tables."
+      ]
+    },
+      {
+      "company": "BANK OF AMERICA MS",
+      "position": "OPERATIONS REPRESENTATIVE",
+      "website": "",
+      "startDate": "April 2026",
+      "endDate": "March 2011",
+      "summary": "",
+      "highlights": [
+        "Data Entry - Keyed over 80 WPM with 98% accuracy of Credit Card Applications.",
+        "Worked closely with the reporting team on a new project called the Work in Progress.  By doing this we were able to reduce SLA times drastically.",
+        "Subject Matter Expert (S.M.E.) - assisted in the release of a new database."
+      ]
+    }
+    
   ],
 
   "awards": [
