@@ -15,7 +15,7 @@
   },
   "interests": [
     { "name": "Software Engineering" },
-    { "name": "" },
+    { "name": "Data Analysis" },
     { "name": "" },
     { "name": "" },
     { "name": "" }
@@ -27,7 +27,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "", "", "Git/GitHub", "", "" ]
+      "keywords": [ "Microsoft Office", "", "Git/GitHub", "", "" ]
     }
   ],
   "education": [
@@ -48,7 +48,7 @@
       "website": "",
       "startDate": "March 2023",
       "endDate": "Present",
-      "summary": "",
+      "summary": ""
       "highlights": [
         "Wellbeing Advocate.",
         "Provide non-clinical support for the policies and procedures ensuring the best and most appropriate treatment, care, or services for members in a healthcare setting. ", 
